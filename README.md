@@ -62,7 +62,8 @@ Bu proje ile **%90 accuracy** elde ederek bootcamp hedeflerini karşıladım.
 ---
 
 ## 🔗 Linkler
-- Kaggle Notebook: [Kaggle Linki](https://www.kaggle.com/code/ahmet0akaslan/akbank-bootcamp?scriptVersionId=263791710)
+- Kaggle Shared Notebook: [Kaggle Linki](https://www.kaggle.com/code/ahmet0akaslan/akbank-bootcamp?scriptVersionId=263791710)
+- Kaggle Public Notebook: [Kaggle Linki](https://www.kaggle.com/code/ahmet0akaslan/akbank-bootcamp)
 
 
 
